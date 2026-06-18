@@ -1,6 +1,6 @@
-# Enterprise Network System Implementation
+# Enterprise Network Design & Implementation
 
-> A complete IT infrastructure design and deployment project for a fictional law firm client, covering LAN design, IP network planning, hardware procurement, Windows Server configuration, user and group management, and project documentation. Delivered on time and under a $60,000 budget.
+> A complete IT infrastructure design and deployment for a fictional law firm client, covering LAN design, IP planning, hardware procurement, Windows Server configuration, and user and group management, delivered on time and under a $60,000 budget.
 
 ---
 
