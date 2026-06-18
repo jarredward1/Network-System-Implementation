@@ -120,6 +120,10 @@ The project covers network design, hardware selection and procurement, Windows S
 | 27 | Smart TV | 10.10.119.61 |
 | 28 | Conference Phone | 10.10.119.62 |
 
+### Network Topology Diagram
+
+![Network Topology Diagram](./Network_Topology.png)
+
 ---
 
 ## 💻 Hardware Specifications
