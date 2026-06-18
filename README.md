@@ -149,7 +149,7 @@ The project covers network design, hardware selection and procurement, Windows S
 
 Ten user accounts were created in Windows Server 2022 for all Marconi Law employees using the following process:
 
-1. Launch Windows Server 2019 VM and log in with admin credentials
+1. Launch Windows Server 2022 VM and log in with admin credentials
 2. Open Server Manager and navigate to Computer Management
 3. Create new users via Local Users and Groups
 4. Assign usernames, full names, and passwords
